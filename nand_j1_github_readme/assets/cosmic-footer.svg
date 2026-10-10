@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img" aria-labelledby="title">
+  <title id="title">Keep exploring. Keep building.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#030913"/>
+      <stop offset=".5" stop-color="#08242B"/>
+      <stop offset="1" stop-color="#030913"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55E6D0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#55E6D0" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#55E6D0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="145" rx="14" fill="url(#bg)"/>
+  <g fill="#D7FFF6" opacity=".7">
+    <circle cx="90" cy="34" r="1"/><circle cx="215" cy="91" r="1.2"/><circle cx="355" cy="48" r=".8"/>
+    <circle cx="495" cy="106" r="1"/><circle cx="700" cy="35" r="1.1"/><circle cx="870" cy="92" r=".8"/>
+    <circle cx="1010" cy="41" r="1.1"/><circle cx="1120" cy="103" r="1"/>
+  </g>
+  <path d="M0 18 Q300 80 600 25 T1200 35" fill="none" stroke="#35D5B4" stroke-opacity=".18" stroke-width="1.5"/>
+  <text x="600" y="70" text-anchor="middle" fill="#E8FFFA" font-family="Georgia, 'Times New Roman', serif" font-size="29">Keep exploring. Keep building.</text>
+  <text x="600" y="99" text-anchor="middle" fill="#8CB7B7" font-family="monospace" font-size="12" letter-spacing="3">THE NEXT IDEA STARTS SOMEWHERE</text>
+  <path d="M330 121 H870" stroke="url(#line)" stroke-width="1"/>
+  <rect x=".5" y=".5" width="1199" height="144" rx="14" fill="none" stroke="#5EEAD4" stroke-opacity=".2"/>
+</svg>
